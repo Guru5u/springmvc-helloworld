@@ -1,6 +1,6 @@
 ### SpringMVC-helloworld
 
-This is a very basic example of using Spring MVC with JavaConfig to make a helloworld web apps.
+Guru This is a very basic example of using Spring MVC with JavaConfig to make a helloworld web apps.
 
 The first part of this is to create a configuration class for the web app.  below is a sample of the configuration class we are going to use:
 
